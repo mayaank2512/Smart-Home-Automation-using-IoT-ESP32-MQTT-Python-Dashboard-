@@ -1,0 +1,9 @@
+Smart-Home-Automation/
+│── hardware/                  # circuit diagrams, fritzing, PCB layouts
+│── esp32_code/
+│   └── smart_home.ino         # ESP32 Arduino code
+│── python_dashboard/
+│   └── dashboard.py           # Python real-time dashboard
+│── mobile_app/                # Blynk app JSON or screenshots
+│── requirements.txt           # Python dependencies
+│── README.md                  # documentation
